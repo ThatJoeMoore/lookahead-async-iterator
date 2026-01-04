@@ -1,0 +1,24 @@
+{
+  "name": "@thatjoemoore/lookahead-async-iterator",
+  "version": "0.0.0",
+  "description": "Experimental Typescript async iterator with lookahead capability",
+  "homepage": "https://github.com/ThatJoeMoore/lookahead-async-iterator#readme",
+  "bugs": {
+    "url": "https://github.com/ThatJoeMoore/lookahead-async-iterator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThatJoeMoore/lookahead-async-iterator.git"
+  },
+  "license": "MIT",
+  "author": "Joseph Moore",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest --watch"
+  },
+  "devDependencies": {
+    "vitest": "^4.0.16"
+  }
+}
