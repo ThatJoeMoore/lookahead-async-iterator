@@ -1,2 +1,2 @@
-# readahead-async-iterator
-Experimental Typescript async iterator with readahead capability
+# lookahead-async-iterator
+Experimental Typescript async iterator with lookahead capability
